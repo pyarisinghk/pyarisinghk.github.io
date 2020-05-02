@@ -1,11 +1,19 @@
-(Migrating a 
+---
+layout: post
+title: Getting Started with Google Colab
+---
 
-[slighly old blog from medium](https://medium.com/@pyarisingh/getting-started-with-google-colab-3252ba9cd74a) "Getting started with Google Colab") to here)
+
+(Migrating a [slighly old blog from medium](https://medium.com/@pyarisingh/getting-started-with-google-colab-3252ba9cd74a) "Getting started with Google Colab") to here)
 
 #### Here is what you could do to get started with Google Colab
 Search for “Google Colab” on Google. Find the link corresponding to https://colab.research.google.com/ and login with your gmail account
 
 Google Colab — Search Results
+
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Google Drive — Path for the files
 Step 2 - Upload the required files as .csv onto Google Drive. In the above, you can see that my files are on My Drive->ColabDemo folder
