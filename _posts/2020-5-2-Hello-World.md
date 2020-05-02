@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World! - Moving to a different platform
+title: Hello World! - From Github Pages
 ---
 
 Hello World, 
