@@ -14,7 +14,7 @@ Today, I have a set of excel files with me. As always, the more the number of ex
 #### Here is what you could do to get started with Google Colab
 Step 1 - Search for “Google Colab” on Google. Find the link corresponding to https://colab.research.google.com/ and login with your gmail account
 
-Google Colab — Search Results
+
 ![_config.yml]({{ site.baseurl }}/images/search_results.png)
 
 
@@ -29,7 +29,7 @@ Step 3 — Create a new Notebook. Use the File Menu — New Notebook option (pic
 
 Step 4 — Tadang! The notebook is ready to use! Rename the notebook to have the name you like to have. Run the python code like using a usual jupyter note book.
 
-A ready to use Notebook on Colab
+#### A ready to use Notebook on Colab
 To import a set of files which are there on the drive, do the below:
 (I had in fact forgotten, how to do this. I found this on stack overflow here: https://stackoverflow.com/questions/48340341/read-csv-to-dataframe-in-google-colab)
 
