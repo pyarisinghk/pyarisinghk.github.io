@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Mobile Applications Developer (Android) & Data Enthusiast!
+Mobile Applications Developer (Android) & Data Enthusiast
 
 ### More Information
 
