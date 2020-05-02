@@ -10,8 +10,9 @@ title: Getting Started with Google Colab
 ####Why Google Colab
 Today, I have a set of excel files with me. As always, the more the number of excel files we work on, the more it becomes difficult to manage things at a later stage. When we want to get a feel of the data in these excel sheets and want to try manipulating them, the best option is always to bring it on a data frame using pandas in python. I had lost touch with Python completely and wanted to have a ready set up to do this. That is when I remembered about Colab again.
 
+
 #### Here is what you could do to get started with Google Colab
-Search for “Google Colab” on Google. Find the link corresponding to https://colab.research.google.com/ and login with your gmail account
+Step 1 - Search for “Google Colab” on Google. Find the link corresponding to https://colab.research.google.com/ and login with your gmail account
 
 Google Colab — Search Results
 ![_config.yml]({{ site.baseurl }}/images/search_results.png)
@@ -19,11 +20,13 @@ Google Colab — Search Results
 
 ![_config.yml]({{ site.baseurl }}/images/google_drive_path.png)
 
-Google Drive — Path for the files
 Step 2 - Upload the required files as .csv onto Google Drive. In the above, you can see that my files are on My Drive->ColabDemo folder
-Step 3 — Create a new Notebook. Use the File Menu — New Notebook option (picture attached below)
 
-Creating a new Notebook
+Step 3 — Create a new Notebook. Use the File Menu — New Notebook option (picture attached below)
+![_config.yml]({{ site.baseurl }}/images/create_new_notebook.png)
+
+
+
 Step 4 — Tadang! The notebook is ready to use! Rename the notebook to have the name you like to have. Run the python code like using a usual jupyter note book.
 
 A ready to use Notebook on Colab
@@ -36,7 +39,7 @@ from google.colab import drive
 drive.mount('/content/gdrive/')
 On successful authentication, you get an output which looks like the below.
 
-Drive Successfully Mount
+![_config.yml]({{ site.baseurl }}/images/drive_mount.png)
 Woohoo… We have a good platform to start playing with our files now.
 Step 6 — Add the next cell as usually done on a Jupyter Notebook by clicking on the “+ Code”
 Time to bring in our favorite Pandas. :) Below is a code that I have pasted for reference.
@@ -45,6 +48,6 @@ df=pd.read_csv('gdrive/My Drive/ColabDemo/class 3A.csv')
 df.head()
 Let us now view the output before we close the session.
 
-Successfully imported the file using pandas
+![_config.yml]({{ site.baseurl }}/images/imported_file.png)
 I hope you like the post and will soon start using Google Colab. :)
 
