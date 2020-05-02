@@ -4,16 +4,20 @@ title: Getting Started with Google Colab
 ---
 
 
-(Migrating a [slighly old blog from medium](https://medium.com/@pyarisingh/getting-started-with-google-colab-3252ba9cd74a) "Getting started with Google Colab") to here)
+
+(Originally posted [here](https://medium.com/@pyarisingh/getting-started-with-google-colab-3252ba9cd74a) "Getting started with Google Colab") to here)
+
+####Why Google Colab
+Today, I have a set of excel files with me. As always, the more the number of excel files we work on, the more it becomes difficult to manage things at a later stage. When we want to get a feel of the data in these excel sheets and want to try manipulating them, the best option is always to bring it on a data frame using pandas in python. I had lost touch with Python completely and wanted to have a ready set up to do this. That is when I remembered about Colab again.
 
 #### Here is what you could do to get started with Google Colab
 Search for “Google Colab” on Google. Find the link corresponding to https://colab.research.google.com/ and login with your gmail account
 
 Google Colab — Search Results
+![_config.yml]({{ site.baseurl }}/images/search_results.png)
 
-![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![_config.yml]({{ site.baseurl }}/images/google_drive_path.png)
 
 Google Drive — Path for the files
 Step 2 - Upload the required files as .csv onto Google Drive. In the above, you can see that my files are on My Drive->ColabDemo folder
@@ -25,6 +29,7 @@ Step 4 — Tadang! The notebook is ready to use! Rename the notebook to have the
 A ready to use Notebook on Colab
 To import a set of files which are there on the drive, do the below:
 (I had in fact forgotten, how to do this. I found this on stack overflow here: https://stackoverflow.com/questions/48340341/read-csv-to-dataframe-in-google-colab)
+
 Step 5
 Run the below code on the first cell of the notebook, follow the instructions and complete the authentication.
 from google.colab import drive
@@ -41,5 +46,5 @@ df.head()
 Let us now view the output before we close the session.
 
 Successfully imported the file using pandas
-I hope you like the blog. :)
-5
+I hope you like the post and will soon start using Google Colab. :)
+
