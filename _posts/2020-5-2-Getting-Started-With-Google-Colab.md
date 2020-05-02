@@ -7,7 +7,7 @@ title: Getting Started with Google Colab
 
 (Originally posted [here](https://medium.com/@pyarisingh/getting-started-with-google-colab-3252ba9cd74a) "Getting started with Google Colab") to here)
 
-####Why Google Colab
+#### Why Google Colab
 Today, I have a set of excel files with me. As always, the more the number of excel files we work on, the more it becomes difficult to manage things at a later stage. When we want to get a feel of the data in these excel sheets and want to try manipulating them, the best option is always to bring it on a data frame using pandas in python. I had lost touch with Python completely and wanted to have a ready set up to do this. That is when I remembered about Colab again.
 
 
@@ -40,14 +40,22 @@ drive.mount('/content/gdrive/')
 On successful authentication, you get an output which looks like the below.
 
 ![_config.yml]({{ site.baseurl }}/images/drive_mount.png)
+
+
 Woohoo… We have a good platform to start playing with our files now.
+
+
 Step 6 — Add the next cell as usually done on a Jupyter Notebook by clicking on the “+ Code”
 Time to bring in our favorite Pandas. :) Below is a code that I have pasted for reference.
+
 import pandas as pd
 df=pd.read_csv('gdrive/My Drive/ColabDemo/class 3A.csv')
 df.head()
+
 Let us now view the output before we close the session.
 
 ![_config.yml]({{ site.baseurl }}/images/imported_file.png)
+
+
 I hope you like the post and will soon start using Google Colab. :)
 
