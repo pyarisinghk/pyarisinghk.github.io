@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World! - Moving to a different platform
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello World, 
+I have been writing since Sept, 2009. I started with my personal world views in Malayalam. I slowly moved into medium with my semi technical blogs, which focussed on a bit of tech and more of techno managerial stuffs. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+It has been long since I have been planning to write on pure tech alone and without any distractions. Moving to this platform is the first step to write without distractions and to focus more on technology. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Thanks to the Google India Scholarship, 2018 by Udacity for this change. 
