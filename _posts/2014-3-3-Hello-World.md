@@ -4,6 +4,7 @@ title: Hello World! - Moving to a different platform
 ---
 
 Hello World, 
+
 I have been writing since Sept, 2009. I started with my personal world views in my mother tongue, Malayalam. I gradually started writing on medium with my semi-technical blogs, which focussed on a bit of tech and more of techno-managerial stuffs. 
 
 I have been planning to write on pure tech alone and without any distractions. Moving to this platform is the first step to write without distractions and to focus more on technology. 
