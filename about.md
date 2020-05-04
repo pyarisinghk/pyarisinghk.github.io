@@ -12,7 +12,7 @@ Mobile Applications Developer (Android) & Data Enthusiast. Currently focusing on
 
 ##### Recent blogs on Data Analysis
 * [Some Data Wrangling Tips](https://medium.com/@pyarisingh/data-wrangling-some-tips-during-this-covid-season-9ac7e3a726c1)
-* [Tools and Languages for Data Analysis - A quick review](https://medium.com/@pyarisingh/data-analysis-tools-languages-a-quick-review-6f4c8bedcd6b)
+* [Getting started with Colab](https://pyarisinghk.github.io/Getting-Started-With-Google-Colab/)
 
 ###### Contact me
 
