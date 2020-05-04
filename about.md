@@ -16,7 +16,7 @@ Android (JAVA) and Python are the current areas of focus
 
 ##### Recent blogs on Data Analysis
 * [Some Data Wrangling Tips](https://medium.com/@pyarisingh/data-wrangling-some-tips-during-this-covid-season-9ac7e3a726c1)
-* [Tools and Languages for Data Analysis - A quick review] (https://medium.com/@pyarisingh/data-analysis-tools-languages-a-quick-review-6f4c8bedcd6b)
+* [Tools and Languages for Data Analysis - A quick review](https://medium.com/@pyarisingh/data-analysis-tools-languages-a-quick-review-6f4c8bedcd6b)
 
 ###### Contact me
 
