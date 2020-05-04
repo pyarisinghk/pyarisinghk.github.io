@@ -7,7 +7,7 @@ I have been blogging since Sept, 2009. I started blogging by jotting down my per
 
 I have been planning to write on pure tech alone and without any distractions. Moving to this platform is the first step in that direction and to focus more on technology. 
 
-Thanking the Google India Scholarship, 2018 by Udacity for the inclusivity and the opportunity they gave to a woman of my age to help me take a baby step to come back to pure tech. It is from there that I really started creating repos on git.  
+Thanking the Google India Scholarship, 2018 by Udacity for the inclusivity and the opportunity they gave to a woman of my age to help me take a baby step to come back to pure tech.   
 
 Also, a big thanks to Barry Clark for [this](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/ "Barry Clark' post") post which helped to make a super quick transition to github pages! Two days of reading (not continuous, ofcourse) and I am here, editing my first blog on Github pages)
 
