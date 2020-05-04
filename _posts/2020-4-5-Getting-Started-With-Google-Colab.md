@@ -3,7 +3,7 @@ layout: post
 title: Getting Started with Google Colab
 ---
 
-Does technology distract you? As far as I am concerned, the answer is yes. Since the time I completed two nano degrees (one on Android Basics and another on Data Analysis) from Udacity, I keep switching between Data and Android. I recently got another scholarship, which is the Bertelesmann Scholarship, but, considering the advices of my well-wishers, I have finally decided to let go of the scholarship and focus on Android alone. Also, listening to my inner voice to stay focused. ;) 
+Does technology distract you? As far as I am concerned, the answer is yes. Since the time I completed two nano degrees (one on Android Basics and another on Data Analysis) from Udacity, I keep switching between Data and Android. I recently got another scholarship,but considering the advices of my well-wishers, I have finally decided to let go of the scholarship and focus on Android alone. Also, listening to my inner voice to stay focused. ;) 
 
 But yeah, I have this problem. I take up some or other thing in tech and it demands a change of focus. When India is in the mid of the lockdown due to Covid 19, I decided to work a bit on data again as part of a small work that I am doing. Now, that made me start on Google Colab again and this long pending blog, I thought I will complete today.
 I had attended [Ms.Usha Rangaraju’s](https://medium.com/@usharengaraju) session on Colab sometime back through GDG, the only one which I attended with GDG Bangalore. It was a good one and I wanted to keep some notes for myself and this blog was pending since then.
