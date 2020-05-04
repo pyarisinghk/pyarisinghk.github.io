@@ -3,14 +3,14 @@ layout: post
 title: Getting Started with Google Colab
 ---
 
-Does technology distract you? As far as I am concerned, the answer is yes. Since the time I completed two nano degrees (one on Android and another on Data Analysis) from Udacity, I keep switching between Data and Android. I recently got another scholarship, which is the Bertelesmann Scholarship, but, considering the advices of my well-wishers, I have finally decided to let go of the scholarship and focus on Android alone. Also, listening to my inner voice to stay focused. ;) 
+Does technology distract you? As far as I am concerned, the answer is yes. Since the time I completed two nano degrees (one on Android Basics and another on Data Analysis) from Udacity, I keep switching between Data and Android. I recently got another scholarship, which is the Bertelesmann Scholarship, but, considering the advices of my well-wishers, I have finally decided to let go of the scholarship and focus on Android alone. Also, listening to my inner voice to stay focused. ;) 
 
 But yeah, I have this problem. I take up some or other things in tech and it demands a change of focus. When India is in the mid of the lockdown due to Covid 19, I decided to work a bit on data again as part of a small work that I am doing. Now, that made me start on Google Colab again and this long pending blog, I thought I will complete today.
 I had attended [Ms.Usha Rangaraju’s]("https://medium.com/@usharengaraju") session on Colab sometime back through GDG, the only one which I attended with GDG Bangalore. It was a good one and I wanted to keep some notes for myself and this blog was pending since then.
 
 
 #### Why Google Colab
-Today, I have a set of excel files with me. As always, the more the number of excel files we work on, the more it becomes difficult to manage things at a later stage. When we want to get a feel of the data in these excel sheets and want to try manipulating them, the best option is always to bring it on a data frame using pandas in python. I had lost touch with Python completely and wanted to have a ready set up to do this. That is when I remembered about Colab again.
+Today, I have a set of excel files with me. As we know, the more the number of excel files we work on, the more it becomes difficult to manage things at a later stage. When we want to get a feel of the data in these excel sheets and want to try manipulating them, the best option is always to bring it on a data frame using pandas in python. I had lost touch with Python completely and wanted to have a ready set up to do this. That is when I remembered about Colab again.
 
 
 #### Here is what you could do to get started with Google Colab
