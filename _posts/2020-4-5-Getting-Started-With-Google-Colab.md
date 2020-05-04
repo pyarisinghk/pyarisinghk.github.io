@@ -49,9 +49,11 @@ Woohoo… We have a good platform to start playing with our files now.
 * Step 6 — Add the next cell as usually done on a Jupyter Notebook by clicking on the “+ Code”
 Time to bring in our favorite Pandas. :) Below is a code that I have pasted for reference.
 
+```
 import pandas as pd
 df=pd.read_csv('gdrive/My Drive/ColabDemo/class 3A.csv')
 df.head()
+ ```
 
 Let us now view the output before we close the session.
 
