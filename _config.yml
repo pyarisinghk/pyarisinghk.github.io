@@ -6,7 +6,7 @@
 name: Pyari
 
 # Short bio or description (displayed in the header)
-description: Independent Technologist from Kerala, India
+description: Independent Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/18439099?s=400&u=af9446e90e9d5a6a11257ae0b1f6a710f53abadf&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: pyarisinghk
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/pyari-k-23875619a/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: asimplependulum
