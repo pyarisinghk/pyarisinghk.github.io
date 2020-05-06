@@ -9,10 +9,13 @@ Mobile Applications Developer (Android) & Data Enthusiast. Currently focusing on
 
 ##### Apps Developed
 * [Kannada-Malayalam Learning App](https://play.google.com/store/apps/details?id=com.pyari.secondquadrant.kannada)
+* [Kannada-HIndi Learning App (Yet to be rolled out)](https://play.google.com/store/apps/details?id=com.pyari.secondquadrant.kannadahindi)
+
 
 ##### Recent blogs on Data Analysis
-* [Some Data Wrangling Tips](https://medium.com/@pyarisingh/data-wrangling-some-tips-during-this-covid-season-9ac7e3a726c1)
 * [Getting started with Colab](https://pyarisinghk.github.io/Getting-Started-With-Google-Colab/)
+* [Some Data Wrangling Tips](https://medium.com/@pyarisingh/data-wrangling-some-tips-during-this-covid-season-9ac7e3a726c1)
+
 
 ###### Contact me
 
