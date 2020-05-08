@@ -33,5 +33,4 @@ Click on Open Database and browse for the questionBank file (without extension) 
  ![_config.yml]({{ site.baseurl }}/images/db_browser_for_sqlite.png)
  
  Click on Browse Database tab and select the table to view the data.
-Happy Coding!
 
