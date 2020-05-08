@@ -1,7 +1,7 @@
-threehyphens
+---
 layout: post
 title: Moving to a new platform - Hello from Github Pages :)
-threehyphens
+---
 
 In the new app that I am developing, I am using Room to store data. Room is an abstraction over SQLite. One of the difficulties that I faced with Room was to view the saved data. The data is saved on our phone and how do we view this DB?
 
