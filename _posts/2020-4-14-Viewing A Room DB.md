@@ -3,7 +3,7 @@ layout: post
 title: Viewing a db created using Room in Android
 ---
 
-In the new app that I am developing, I am using Room to store data. Room is an abstraction over SQLite. One of the difficulties that I faced with Room was to view the saved data. The data is saved on our phone and how do we view this DB? The post is a documentation on how we can view a DB created using Room. 
+In the new app that I am developing, I am using Room to store data. Room is an abstraction over SQLite. As a relatively new developer on Android, one of the difficulties that I faced with Room was to view the saved data. The data is saved on our phone and how do we view this DB? The post is a documentation on how we can view a DB created using Room. 
 
 This [code](https://github.com/pyarisinghk/SampleCodes/tree/master/RoomWithoutLiveData) on Github demonstrates the creation of tables using Room and displaying the data on a recylcerview on android. As an intermediate step, if we would like to see the data created, what do we do?
 When I started using Room, I was confident that I can view the tables using the method followed in one of my [earlier blogs on sqlite](https://medium.com/@pyarisingh/sqlite-cheat-sheet-cf0d6bc3f0c6). However, for some reason, when I tried to list the databases, I could never get the databases listed with this & hence this approach.
