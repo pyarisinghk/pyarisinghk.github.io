@@ -5,7 +5,7 @@ title: Harnessing Logs in Android Studio (Java & Kotlin)
 
 Does something like this happen to you? 
 
-All these days, whenever I hear “mutable” variable, the feel I get is that it cannot be changed because it will be “muted”. Then, I look at the code and wonder, how it gets changed. It is then that I have to tell myself again that, ok, mutable variables are variables whose value can be changed. Was never happy about this counter intuitive thing. Today when I was going through a video by [Lyla Fujiwara](https://medium.com/@lylalyla) on LiveData on Android, I heard her say that the a MutableLiveData is mutatable Live data. Wow! She really is a good computer science teacher. The way she emphasised on that mutatable ensures that now on, there is no more confusion related to mutable variables. 
+All these days, whenever I hear “mutable” variable, the feel I get is that it cannot be changed because it will be “muted”. Then, I look at the code and wonder, how it gets changed. It is then that I have to tell myself again that, ok, mutable variables are variables whose value can be changed. Was never happy about this counter intuitive thing. Today when I was going through a video by [Lyla Fujiwara](https://medium.com/@lylalyla) on LiveData on Android, I heard her say that the a MutableLiveData is **__mutatable__** Live data. Wow! She really is a good computer science teacher. The way she emphasised on that **__mutatable__** ensures that now on, there is no more confusion related to mutable variables aka mutatable variables. 
 
 A mutable (otherwise called mutatable) variable obviously can be changed as the name clearly suggests. 
 
