@@ -18,14 +18,18 @@ If you are using a manual “search” like me, to search for the logs, this pos
 
 Logs in Android are typically written as
 
-```Log.d("MyActivityTag", "Test Log")
+```
+Log.d("MyActivityTag", "Test Log")
 
 "MyActivityTag" is the tag used to identify the log & 
-"Test Log" is the log message.```
+"Test Log" is the log message.
+```
 
 or
-```Log.i("MyActivityTag", "Test Log 1")
-Log.i("MyActivityTag", "Test Log")```
+```
+Log.i("MyActivityTag", "Test Log 1")
+Log.i("MyActivityTag", "Test Log")
+```
 
 Based on whether we use info logs or error logs or debug logs, we use the .i, .d or .e
 The full list of log levels are listed [here](https://developer.android.com/studio/debug/am-logcat) on the Android documentation
