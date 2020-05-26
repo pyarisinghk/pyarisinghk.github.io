@@ -42,7 +42,7 @@ The above image shows how to filter out the Info logs written using Log.i
 Note that we set the log level to “Info” and searched for I/TagName to do the filtering of Info logs.
 ie, we set two filters:
 (i) Log level as Info and
-(ii) Search parameter as I/tag name we used in the code. ie, I/MyActivityTag in the case of our code written above.
+(ii) Search parameter as I/the tag name we used in the code. ie, I/MyActivityTag in the case of our code written above.
 
  ![_config.yml]({{ site.baseurl }}/images/DebugLogs.png)
  
@@ -51,7 +51,7 @@ The above image shows how to filter out the Debug logs written using Log.d
 Again, note that we set the log level to “Debug” and searched for D/TagName to do the filtering of Debug logs.
 ie, the two filters we set are:
 (i) Log level as Debug and
-(ii) Search parameter as D/tag name we used in the code. ie, D/MyActivityTag in the case of our code written above.
+(ii) Search parameter as D/the tag name we used in the code. ie, D/MyActivityTag in the case of our code written above.
 
 Something which is trivial and everyone knew! But, as a newbie, I am excited to find this now!
 Happy logging. :-)
