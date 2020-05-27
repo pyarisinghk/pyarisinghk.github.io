@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Mobile Applications Developer (Android) & Data Enthusiast. Currently focusing on Android(Java & Kotlin) & Python
+Data Enthusiast & Mobile Applications Developer (Android). Currently focusing on Python & Android(Java & Kotlin)
 
 ##### Apps Developed
 * [Kannada-Malayalam Learning App](https://play.google.com/store/apps/details?id=com.pyari.secondquadrant.kannada)
