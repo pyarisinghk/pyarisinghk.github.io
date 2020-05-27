@@ -5,9 +5,11 @@ title: Data Wrangling — Some Tips during this covid season
 
 
 In this covid season, thought of sharing some tips and sample codes on Data Wrangling. After getting a glance of Google Colab, my go to language for data wrangling has been Python. This blog hence uses Colab and Pandas on Python for data wrangling.
+
 Most of the data collected has format related issues because they are collected without the use of a software. These days, with tools like Google Forms coming into picture, it is much better, but when you have old data to deal with in its row form, there is no escape from formatting it and getting it to the shape that you need it to be in.
-This blog shows how to use colab, pandas and lambda functions to quickly format some data.
-I had written an earlier blog few days back on Colab and how to import data from excel to Colab. So, I shall skip that part now.
+
+This blog demonstrates how to use colab, pandas and lambda functions to quickly format some data.
+I had written an [earlier blog few days back on Colab](https://pyarisinghk.github.io/Getting-Started-With-Google-Colab/) and how to import data from excel to Colab. So, I shall skip that part now.
 Let us say, the below is the data that we need to format (the admission number column) and we need all the data to be in the format: YYYY-Num
 
  ![_config.yml]({{ site.baseurl }}/images/raw_data.png)
