@@ -10,6 +10,7 @@ Data Enthusiast & Mobile Applications Developer (Android). Currently focusing on
 ##### Apps Developed
 * [Kannada-Malayalam Learning App](https://play.google.com/store/apps/details?id=com.pyari.secondquadrant.kannada)
 * [Kannada-Hindi Learning App (Alpha)](https://play.google.com/store/apps/details?id=com.pyari.secondquadrant.kannadahindi)
+* [Arithmetics Question Bank App (MVP)] (https://www.youtube.com/watch?v=amO29ncI4Kk&feature=youtu.be)
 
 
 ##### Recent blogs on Data Analysis
