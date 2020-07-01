@@ -1,28 +1,35 @@
 ---
 layout: post
-title: Data Wrangling — Some Tips during this covid season
+title: Viewing a db created using Room in Android
 ---
 
-In this covid season, thought of sharing some tips and sample codes on Data Wrangling. After getting a glance of Google Colab, my go to language for data wrangling has been Python. This blog hence uses Colab and Pandas on Python for data wrangling.
-Most of the data collected has format related issues because they are collected without the use of a software. These days, with tools like Google Forms coming into picture, it is much better, but when you have old data to deal with in its row form, there is no escape from formatting it and getting it to the shape that you need it to be in.
-This blog shows how to use colab, pandas and lambda functions to quickly format some data.
-I had written an earlier blog few days back on Colab and how to import data from excel to Colab. So, I shall skip that part now.
-Let us say, the below is the data that we need to format (the admission number column) and we need all the data to be in the format: YYYY-Num
+In the new app that I am developing, I am using Room to store data. Room is an abstraction over SQLite. As a relatively new developer on Android, one of the difficulties that I faced with Room was to view the saved data. The data is saved on our phone and how do we view this DB? The post is a documentation on how we can view a DB created using Room. 
 
-![_config.yml]({{ site.baseurl }}/images/raw_data.png)
+This [code](https://github.com/pyarisinghk/SampleCodes/tree/master/RoomWithoutLiveData) on Github demonstrates the creation of tables using Room and displaying the data on a recylcerview on android. As an intermediate step, if we would like to see the data created, what do we do?
+When I started using Room, I was confident that I can view the tables using the method followed in one of my [earlier blogs on sqlite](https://medium.com/@pyarisingh/sqlite-cheat-sheet-cf0d6bc3f0c6). However, for some reason, when I tried to list the databases, I could never get the databases listed with this & hence this approach.
+
+The below are the steps that can be followed to view the database created by Room.
+* Step 1 — Download an SQLite Browser application. I downloaded it from [here](https://sqlitebrowser.org/). You might have to go to the [downloads tab](https://sqlitebrowser.org/dl/) to download it.
+* Step 2 — Copy the database created on the mobile on to your machine. There are several ways to do this. I followed this approach using the Android Studio.
+ `View->Tools Windows->Device File Explorer `
+
+ ![_config.yml]({{ site.baseurl }}/images/Device_Explorer_Android_Studio.png)
+
+ The namespace for my app, if you see [the code](https://github.com/pyarisinghk/SampleCodes/tree/master/RoomWithoutLiveData) on my Gitub is com.example.android.todolist
+
+ ![_config.yml]({{ site.baseurl }}/images/package_name_from_code.png)
+
+ Navigate to the below path through the device explorer:
+
+`data/data/com.example.android.todolist/databases`
+
+ ![_config.yml]({{ site.baseurl }}/images/data_base_files_on_the_device_file_explorer.png)
 
 
-We can do this quickly using dataframes and lambda functions in Python.
-The below is what we can do to do the transformation:
-Import the data into a dataframe using pandas.
-Then, write a normal function in Python which will replace the slash in a string with a “-”. Later, apply a lambda function on the column “Admission Number” and pass this function which we just wrote.
-We can repeat the same with another function to format the date. In the second function we can split the data with “-” and check for the format of the year and replace it if required in the YYYY format. Apply this lambda function again on the column which requires the data to be formatted.
-The resulting data can be exported to another .csv on the drive too. A piece of demo code is written to show this. The note book has been uploaded to my Github from Colab directly and is available [here](https://github.com/pyarisinghk/Colab_Sandbox/blob/master/ShowCase_Blog.ipynb). Below are the screenshots of the relevant pieces of code.
+Click on the databases folder and save all the three files. In my case, it is questionBank, questionBank-shm and questionBank-wal
+* Step 3: Open DB Browser for SQLite.
+Click on Open Database and browse for the questionBank file (without extension) and import the DB into the browser.
 
+ ![_config.yml]({{ site.baseurl }}/images/db_browser_for_sqlite.png)
 
-![_config.yml]({{ site.baseurl }}/images/code_1_lambda.png)
-
-![_config.yml]({{ site.baseurl }}/images/code_2_lambda.png)
-
-
-Might sound simple. But, these simple tools worked like magic on my old Mac with performance issues to transform 1000s of records and to get some “visualisable” data quickly.
+ Click on Browse Database tab and select the table to view the data.
