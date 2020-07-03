@@ -13,7 +13,7 @@ Data Enthusiast, Android Developer & Trainer
 * [Arithmetic Question Bank App (MVP)](https://www.youtube.com/watch?v=amO29ncI4Kk)
 
 ##### Training Videos
-* [Refresher on Git] (https://www.youtube.com/playlist?list=PL3nqqqYq7BxAmz5jzodaMdiGH9K3y29zQ) 
+* [Refresher on Git](https://www.youtube.com/playlist?list=PL3nqqqYq7BxAmz5jzodaMdiGH9K3y29zQ) 
 
 ##### Recent blogs on Data Analysis
 * [Getting started with Colab](https://pyarisinghk.github.io/Getting-Started-With-Google-Colab/)
