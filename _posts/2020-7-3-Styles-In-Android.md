@@ -1,12 +1,17 @@
 I am a very lazy developer. Because I code mainly for my own apps, I’m very lazy to go back and refactor my codes.
 
 
+
 I started training recently and one of the habits that I try to inculcate in my students (without much emphasis on it) is the skill of writing clean codes. Today when I happened to talk about the DRY principle in two of my classes, I was visualising one of my codes in which I went on repeating stuffs just because I was  lazy to browse on how to implement styles and the resource "dimen" in Android. (Though I remember seeing these in others’ codes very often)
+
 
 
 I felt a bit ashamed to teach something without practising it. More importantly, one of my XML files for a single screen app has started giving me issues because the code has become a spaghetti code because of redundancy. While in my class, I decided to go back and clean my code and as I cloned my old code now, I thought I will make a write up about styles in android here.
 
+
 Thanks to my students. :) One good thing about training is that you get to reinforce the concepts which you picked up earlier. And it is because I refreshed styles for the sake of my students that I am finding the energy & enthusiasm to come back and make my code clean.
+
+
 
 ### Into the implementation:
 Let us say, we are trying to achieve something like the attached screen. 4 buttons, all with the same attributes. 4 buttons — similarly styled
