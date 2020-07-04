@@ -6,7 +6,7 @@ title: Data Analysis — Tools & Languages — A quick Review
 R, Python, Tableau, Qlikview — what to chose and why & when.
 
 
-My inbox gets regular questions on the topics I usually write about. This time, on [my blog on medium]("https://medium/@pyarisingh"), since there were two back to back posts on data, I got lot of questions on data.
+My inbox gets regular questions on the topics I usually write about. This time, on [my blog on medium] ("https://www.medium/@pyarisingh"), since there were two back to back posts on data, I got lot of questions on data.
 
 In this post, I will try and put in some “whys and why nots” on some of the languages and tools used in data analysis.
 
@@ -30,7 +30,7 @@ Sign in with
 Click on New -> Google Sheets
 ```
 Oh yes, You caught me off guard. I am a big fan of Google. ;) The formulae works almost the same way as that of MS Excel. The formulae and charts together should help us do a good amount of data analysis work with the help of spreadsheets.
-The problem with spreadsheets is the readability and maintainability. That way, it is a bit difficult for someone to pass on your work to someone else.
+The problem with spreadsheets is the readability and maintainability. That way, it is a bit difficult for someone to pass on your work to someone else. There is yet  another issue. When dealing with bigger data, spreadsheets start giving performance issues, especially if you are working on Windows and Microsoft excel. 
 
 *R & Python*
 R — Is a programming language. Python too.
