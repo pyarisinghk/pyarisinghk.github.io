@@ -1,3 +1,8 @@
+---
+layout: post
+title: Styles in Android
+---
+
 I am a very lazy developer. Because I code mainly for my own apps, I’m very lazy to go back and refactor my codes.
 
 
