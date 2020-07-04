@@ -1,6 +1,9 @@
 I am a very lazy developer. 
 
 
+
+
+
 Because I code mainly for my own apps, I’m very lazy to go back and refactor my codes.
 
 I started training recently and one of the habits that I try to inculcate in my students (without much emphasis on it) is the skill of writing clean codes. Today when I happened to talk about the DRY principle in two of my classes, I was visualising one of my codes in which I went on repeating stuffs just because I was  lazy to browse on how to implement styles and the resource "dimen" in Android. (Though I remember seeing these in others’ codes very often)
