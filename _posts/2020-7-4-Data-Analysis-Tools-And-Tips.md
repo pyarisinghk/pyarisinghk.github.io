@@ -6,7 +6,7 @@ title: Data Analysis — Tools & Languages — A quick Review
 R, Python, Tableau, Qlikview — what to chose and why & when.
 
 
-My inbox gets regular questions on the topics I usually write about. This time, on [my blog on medium]("https://medium/pyarisingh"), since there were two back to back posts on data, I got lot of questions on data.
+My inbox gets regular questions on the topics I usually write about. This time, on [my blog on medium] ("https://medium/@pyarisingh"), since there were two back to back posts on data, I got lot of questions on data.
 
 In this post, I will try and put in some “whys and why nots” on some of the languages and tools used in data analysis.
 
