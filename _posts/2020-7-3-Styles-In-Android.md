@@ -14,7 +14,9 @@ Thanks to my students. One good thing about training is that you get to reinforc
 
 ##### Into the implementation:
 Let us say, we are trying to achieve something like the attached screen. 4 buttons, all with the same attributes.
+
 ![_config.yml]({{ site.baseurl }}/images/styles.png)
+
 
 Pasted below is a sample code (without using styles) which has been written to create 4 buttons of the same style. All the text has to be the same. The font colour has to be white. The corner radius has to be some 5 dp. The padding and margin are to be of the standard sizes, 8dp. Here we have written each of the attributes of the button separately and we repeated it every time.
 ```
