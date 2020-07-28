@@ -24,6 +24,6 @@ Data Enthusiast, Android Developer & Trainer
 
 ###### Contact Details
 
-email: [pyarisingh@gmail.com](mailto:pyarisingh@gmail.com)
+* E-mail: [pyarisingh@gmail.com](mailto:pyarisingh@gmail.com)
 
-mobile: +91-7022284784
+* Mobile: +91-7022284784
