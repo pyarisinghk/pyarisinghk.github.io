@@ -20,10 +20,7 @@ Data Enthusiast, Android Developer & Trainer
 * [Some Data Wrangling Tips](https://pyarisinghk.github.io/Data-Wrangling-Tips/)
 
 ##### Casual Blog
-* [Blog on Medium](https://medium/@pyarisingh)
-
-
-
+* [Blog on Medium](https://medium.com/@pyarisingh)
 
 ###### Contact me
 
