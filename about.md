@@ -22,8 +22,8 @@ Data Enthusiast, Android Developer & Trainer
 ##### Casual Blog
 * [Blog on Medium](https://medium.com/@pyarisingh)
 
-###### Contact me
+###### Contact Details
 
-[pyarisingh@gmail.com](mailto:pyarisingh@gmail.com)
+email: [pyarisingh@gmail.com](mailto:pyarisingh@gmail.com)
 
-+91-7022284784
+mobile: +91-7022284784
