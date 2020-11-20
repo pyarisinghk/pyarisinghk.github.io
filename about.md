@@ -14,7 +14,7 @@ Data Enthusiast, Android Developer & Trainer
 
 ##### Training Materials
 * [Refresher Videos on Git](https://www.youtube.com/playlist?list=PL3nqqqYq7BxAmz5jzodaMdiGH9K3y29zQ) 
-* [Github repository for Python](https://github.com/pyarisinghk/Python-Training)
+* [Github repository - Python Training](https://github.com/pyarisinghk/Python-Training)
 
 ##### Casual Blog
 * [Blog on Medium](https://medium.com/@pyarisingh)
